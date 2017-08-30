@@ -1,0 +1,12 @@
+This is an outlline of the steps for the Basic Repo assignment.
+1. Create a new repo on GitHub and call it basic_repo
+-went to GitHub
+-clicked "New repository"
+-entered "Repository Name" as "basic_repo"
+-clicked "Create repository"
+2. Create a local repository also called basic_repo
+-made new directory called "basic_repo"
+-in directory, "git init"
+3. Create some files inside your local repo and add some content on them
+-made new text file named "Steps.txt" in "basic_repo" directory
+-outlined steps inside text file up to that point
